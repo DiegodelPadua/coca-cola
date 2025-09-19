@@ -8,6 +8,7 @@ body{
     height: 100vh;
     display: flex;
     flex-direction: column;
+    background-color: #CF2425;
 }
 header, footer{
     height: 100px;
@@ -23,7 +24,7 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #DA6062;
+    
 }
 .background-logo {
     position: absolute;
@@ -43,11 +44,15 @@ main {
     font-size: 2.5rem;
     width: 240px;
     transform: translateX(-100%);
-    text-align: end;
+    text-align: center;
+
+  
+
 }
 
 .content-image {
     height: 85vh;
+    filter: drop-shadow(0px 50px 20px rgba(0, 0, 0, 0.755));
 }
 header{
     height: 100px;
