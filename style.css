@@ -42,9 +42,13 @@ main {
     position: absolute;
     color: #ffffff;
     font-size: 2.5rem;
-    width: 240px;
+    width: 258px;
     transform: translateX(-100%);
     text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    
+
   
 }
 
@@ -97,4 +101,13 @@ footer div {
     footer {
         padding: 0px 25px;
     }
+}
+.mapinha{
+    width: 50px;
+    transition: 500ms;
+    
+}
+.mapinha:hover{
+    width: 100px;
+    padding: auto;
 }
