@@ -1,7 +1,7 @@
 1.   O que é um repositório no Git e qual a sua importância?
 
-`Um repositório no Git é tipo a “caixa” onde fica seu projeto junto com todo o histórico dele.
-Ele é importante porque guarda as versões, deixa você voltar atrás se der ruim e facilita trampar junto com outras pessoas sem bagunça.``
+Um repositório no Git é tipo a “caixa” onde fica seu projeto junto com todo o histórico dele.
+Ele é importante porque guarda as versões, deixa você voltar atrás se der ruim e facilita trampar junto com outras pessoas sem bagunça.
 
 
 2.   Qual a função do Git Bash?
