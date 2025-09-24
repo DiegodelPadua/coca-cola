@@ -8,12 +8,13 @@ body{
     height: 100vh;
     display: flex;
     flex-direction: column;
-    background-color: #CF2425;
+    /*background-color: #CF2425;*/
+    background: linear-gradient(#9b1f21 50%, #b43d3f 60%, #120505 );
     
 }
 header, footer{
     height: 100px;
-    background-color: #CF2425;
+     /*background-color: #CF2425;*/
      color: #FFFFFF;
      display: flex;
      align-items: center;
